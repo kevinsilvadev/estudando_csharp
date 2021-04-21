@@ -1,0 +1,16 @@
+/home/gandalf/Documents/treino_csharp/bin/Debug/net5.0/treino_csharp
+/home/gandalf/Documents/treino_csharp/bin/Debug/net5.0/treino_csharp.deps.json
+/home/gandalf/Documents/treino_csharp/bin/Debug/net5.0/treino_csharp.runtimeconfig.json
+/home/gandalf/Documents/treino_csharp/bin/Debug/net5.0/treino_csharp.runtimeconfig.dev.json
+/home/gandalf/Documents/treino_csharp/bin/Debug/net5.0/treino_csharp.dll
+/home/gandalf/Documents/treino_csharp/bin/Debug/net5.0/ref/treino_csharp.dll
+/home/gandalf/Documents/treino_csharp/bin/Debug/net5.0/treino_csharp.pdb
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.csprojAssemblyReference.cache
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.AssemblyInfoInputs.cache
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.AssemblyInfo.cs
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.csproj.CoreCompileInputs.cache
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.dll
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/ref/treino_csharp.dll
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.pdb
+/home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.genruntimeconfig.cache
