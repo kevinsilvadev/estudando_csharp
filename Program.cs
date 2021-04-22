@@ -30,9 +30,9 @@ namespace treino_csharp
             Console.Write("\nA sub entre os dois numeros é: " + sub);
             */
 
-            
-        
-            
+
+
+
             /* Tabuada
             Console.WriteLine("Entre com o numero para saber a tabuada: ");
             int num = Int16.Parse(Console.ReadLine());
@@ -44,38 +44,59 @@ namespace treino_csharp
 
             */
 
-                /* Cadastrando estudantes na lista
-                
-                List<Students> list = new List<Students>();
+            /* Cadastrando estudantes na lista
+
+            List<Students> list = new List<Students>();
 
 
-                Console.WriteLine("Quantos estudantes desejam cadastrar? ");
-                int n = Int16.Parse(Console.ReadLine());
+            Console.WriteLine("Quantos estudantes desejam cadastrar? ");
+            int n = Int16.Parse(Console.ReadLine());
 
-                for (int i = 1; i <= n; i++) {
-                
-                Console.WriteLine("Digite o #" + i + " estudante ");
-                
-                Console.WriteLine("Name: ");
-                
-                String name = Console.ReadLine();
+            for (int i = 1; i <= n; i++) {
 
-                Console.WriteLine("Email: ");
-                String email = Console.ReadLine();
-                
-                Console.WriteLine("Phone");
-                int phone = Int32.Parse(Console.ReadLine());
-                
-                list.Add( new Students(name, email, phone));
+            Console.WriteLine("Digite o #" + i + " estudante ");
+
+            Console.WriteLine("Name: ");
+
+            String name = Console.ReadLine();
+
+            Console.WriteLine("Email: ");
+            String email = Console.ReadLine();
+
+            Console.WriteLine("Phone");
+            int phone = Int32.Parse(Console.ReadLine());
+
+            list.Add( new Students(name, email, phone));
+        }
+
+
+            foreach (Students s in list) {
+                Console.WriteLine(s);
+
+            } 
+            */
+
+            Tabuada(5);
+            Sum(9, 3);
+
+        }
+
+        public static void Tabuada(int num)
+        {
+
+            for (int i = 1; i <= 10; i++)
+            {
+                int tb = num * i;
+                Console.WriteLine(num + " x " + i + " = " + tb);
             }
-                
+        }
 
-                foreach (Students s in list) {
-                    Console.WriteLine(s);
+        public static void Sum(int num1, int num2)
+        {
 
-                } 
-                */
-    
+            float sum = num1 + num2;
+            Console.WriteLine($"A soma entre o numero {num1} e o numero {num2} é: {sum} ");
+
 
         }
 

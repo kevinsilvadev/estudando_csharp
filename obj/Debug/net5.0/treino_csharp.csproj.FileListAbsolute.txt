@@ -14,3 +14,4 @@
 /home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/ref/treino_csharp.dll
 /home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.pdb
 /home/gandalf/Documents/treino_csharp/obj/Debug/net5.0/treino_csharp.genruntimeconfig.cache
+C:\Users\Gandalf\Documents\estdando_csharp\estudando_csharp\obj\Debug\net5.0\treino_csharp.pdb
